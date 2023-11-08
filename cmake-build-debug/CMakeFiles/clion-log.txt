@@ -1,0 +1,4 @@
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" /home/kendrick/clion_project/temp/tmp/tmp.my764gGDy3
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/kendrick/clion_project/temp/tmp/tmp.my764gGDy3/cmake-build-debug

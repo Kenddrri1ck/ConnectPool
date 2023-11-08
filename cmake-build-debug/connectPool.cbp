@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="connectPool"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/kendrick/clion_project/temp/tmp/tmp.my764gGDy3/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j2 -f &quot;/home/kendrick/clion_project/temp/tmp/tmp.my764gGDy3/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/gmake -j2 -f &quot;/home/kendrick/clion_project/temp/tmp/tmp.my764gGDy3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j2 -f &quot;/home/kendrick/clion_project/temp/tmp/tmp.my764gGDy3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j2 -f &quot;/home/kendrick/clion_project/temp/tmp/tmp.my764gGDy3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="connectPool">
+				<Option output="/home/kendrick/clion_project/temp/tmp/tmp.my764gGDy3/cmake-build-debug/connectPool" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/kendrick/clion_project/temp/tmp/tmp.my764gGDy3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/kendrick/clion_project/temp/tmp/tmp.my764gGDy3/json"/>
+					<Add directory="/home/kendrick/clion_project/temp/tmp/tmp.my764gGDy3/E:/wamp64/bin/mysql/mysql8.0.31/include"/>
+					<Add directory="/usr/include/c++/11"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/11"/>
+					<Add directory="/usr/include/c++/11/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/11/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j2 -f &quot;/home/kendrick/clion_project/temp/tmp/tmp.my764gGDy3/cmake-build-debug/Makefile&quot;  VERBOSE=1 connectPool"/>
+					<CompileFile command="/usr/bin/gmake -j2 -f &quot;/home/kendrick/clion_project/temp/tmp/tmp.my764gGDy3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j2 -f &quot;/home/kendrick/clion_project/temp/tmp/tmp.my764gGDy3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j2 -f &quot;/home/kendrick/clion_project/temp/tmp/tmp.my764gGDy3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="connectPool/fast">
+				<Option output="/home/kendrick/clion_project/temp/tmp/tmp.my764gGDy3/cmake-build-debug/connectPool" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/kendrick/clion_project/temp/tmp/tmp.my764gGDy3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/kendrick/clion_project/temp/tmp/tmp.my764gGDy3/json"/>
+					<Add directory="/home/kendrick/clion_project/temp/tmp/tmp.my764gGDy3/E:/wamp64/bin/mysql/mysql8.0.31/include"/>
+					<Add directory="/usr/include/c++/11"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/11"/>
+					<Add directory="/usr/include/c++/11/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/11/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j2 -f &quot;/home/kendrick/clion_project/temp/tmp/tmp.my764gGDy3/cmake-build-debug/Makefile&quot;  VERBOSE=1 connectPool/fast"/>
+					<CompileFile command="/usr/bin/gmake -j2 -f &quot;/home/kendrick/clion_project/temp/tmp/tmp.my764gGDy3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j2 -f &quot;/home/kendrick/clion_project/temp/tmp/tmp.my764gGDy3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j2 -f &quot;/home/kendrick/clion_project/temp/tmp/tmp.my764gGDy3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/kendrick/clion_project/temp/tmp/tmp.my764gGDy3/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j2 -f &quot;/home/kendrick/clion_project/temp/tmp/tmp.my764gGDy3/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/gmake -j2 -f &quot;/home/kendrick/clion_project/temp/tmp/tmp.my764gGDy3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j2 -f &quot;/home/kendrick/clion_project/temp/tmp/tmp.my764gGDy3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j2 -f &quot;/home/kendrick/clion_project/temp/tmp/tmp.my764gGDy3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/kendrick/clion_project/temp/tmp/tmp.my764gGDy3/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j2 -f &quot;/home/kendrick/clion_project/temp/tmp/tmp.my764gGDy3/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/gmake -j2 -f &quot;/home/kendrick/clion_project/temp/tmp/tmp.my764gGDy3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j2 -f &quot;/home/kendrick/clion_project/temp/tmp/tmp.my764gGDy3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j2 -f &quot;/home/kendrick/clion_project/temp/tmp/tmp.my764gGDy3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/kendrick/clion_project/temp/tmp/tmp.my764gGDy3/connectionPool.cpp">
+			<Option target="connectPool"/>
+		</Unit>
+		<Unit filename="/home/kendrick/clion_project/temp/tmp/tmp.my764gGDy3/connectionPool.h">
+			<Option target="connectPool"/>
+		</Unit>
+		<Unit filename="/home/kendrick/clion_project/temp/tmp/tmp.my764gGDy3/json/json-forwards.h">
+			<Option target="connectPool"/>
+		</Unit>
+		<Unit filename="/home/kendrick/clion_project/temp/tmp/tmp.my764gGDy3/json/json.h">
+			<Option target="connectPool"/>
+		</Unit>
+		<Unit filename="/home/kendrick/clion_project/temp/tmp/tmp.my764gGDy3/jsoncpp.cpp">
+			<Option target="connectPool"/>
+		</Unit>
+		<Unit filename="/home/kendrick/clion_project/temp/tmp/tmp.my764gGDy3/main.cpp">
+			<Option target="connectPool"/>
+		</Unit>
+		<Unit filename="/home/kendrick/clion_project/temp/tmp/tmp.my764gGDy3/mySQLConn.cpp">
+			<Option target="connectPool"/>
+		</Unit>
+		<Unit filename="/home/kendrick/clion_project/temp/tmp/tmp.my764gGDy3/mySQLConn.h">
+			<Option target="connectPool"/>
+		</Unit>
+		<Unit filename="/home/kendrick/clion_project/temp/tmp/tmp.my764gGDy3/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
